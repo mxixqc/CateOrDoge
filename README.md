@@ -5,9 +5,9 @@ Code for a website that contains image classifier. Deployed using Flask on Herok
 
 This website was created with Flask and hosted on Heroku. Classifies the image you upload, and tells you whether the image you have uploaded is a cat or a dog, amongst other things. 
 <ol>
-  <li>Step 1: Upload your image (png / jpg / jpeg) to the website</li>
-  <li>Step 2: Use either ResNetV250 or MobileNetV2 (with transfer learning) to predict your image </li>
-  <li>Step 3: The website will update the background image, and return what it thinks the iamge contains (In the case of ResNetV2: tabby, humming bird etc)</li>
+  <li><strong>Step 1</strong>: Upload your image (png / jpg / jpeg) to the website</li>
+  <li><strong>Step 2</strong>: Use either ResNetV250 or MobileNetV2 (with transfer learning) to predict your image </li>
+  <li><strong>Step 3</strong>: The website will update the background image, and return what it thinks the iamge contains (In the case of ResNetV2: tabby, humming bird etc)</li>
 </ol>
 
 <h6>Additional Comments</h6> 
