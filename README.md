@@ -14,4 +14,5 @@ This website was created with Flask and hosted on Heroku. Classifies the image y
 I used transfer learning on MobileNetV2, adding additional layers to the model. While the main model remained untrained, I trained the added layers on cifar10. 
 Hence, the MobileNetV2 option return 10 classes which are airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. 
 
-You can check out how I trained the model here:https://drive.google.com/file/d/10z9Ia27-rguGbsmwSRDnXnFf-aAyF6ex/view?usp=sharing 
+You can check out how I trained the model here:
+https://drive.google.com/file/d/10z9Ia27-rguGbsmwSRDnXnFf-aAyF6ex/view?usp=sharing 
